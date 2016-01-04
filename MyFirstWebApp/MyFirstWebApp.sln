@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebApp", "MyFirstWebApp\MyFirstWebApp.csproj", "{F89207C0-0C4C-4881-BA91-347BC183F559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebApp.Tests", "MyFirstWebApp.Tests\MyFirstWebApp.Tests.csproj", "{7E215AE4-62EB-4931-BF91-CD919261B84E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89207C0-0C4C-4881-BA91-347BC183F559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89207C0-0C4C-4881-BA91-347BC183F559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89207C0-0C4C-4881-BA91-347BC183F559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89207C0-0C4C-4881-BA91-347BC183F559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E215AE4-62EB-4931-BF91-CD919261B84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E215AE4-62EB-4931-BF91-CD919261B84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E215AE4-62EB-4931-BF91-CD919261B84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E215AE4-62EB-4931-BF91-CD919261B84E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
